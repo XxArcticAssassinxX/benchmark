@@ -85,9 +85,11 @@ def function():
     t = time.perf_counter()
     print("100% complete")
     time.perf_counter()
+    u = time.perf_counter()
     math.factorial(210000)
-    u = a + b + c + d + e + f + g + h + i + j + k + l + m + n + o + p + q + r + s + t
-    print("Score:", u)
+    time.perf_counter()
+    v = a + b + c + d + e + f + g + h + i + j + k + l + m + n + o + p + q + r + s + t = u
+    print("Score:", v)
 
-
+    
 function()
