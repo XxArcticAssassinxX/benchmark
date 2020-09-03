@@ -88,7 +88,7 @@ def function():
     u = time.perf_counter()
     math.factorial(210000)
     time.perf_counter()
-    v = a + b + c + d + e + f + g + h + i + j + k + l + m + n + o + p + q + r + s + t = u
+    v = a + b + c + d + e + f + g + h + i + j + k + l + m + n + o + p + q + r + s + t + u
     print("Score:", v)
 
     
